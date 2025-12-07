@@ -1,14 +1,3 @@
-
-## Tugas Pengantar Pemograman 
-Ini adalah tugas dari ikram ramadhan dengan dosen pengampu bapak Agung Nugroho, S.Kom., M.Kom
-
-````shell
-Nama   : Ikram Ramadhan
-Nim    : 312110478
-Matkul : Pengantar Pemograman
-````
-## code,flowchart dan output program  
-````shell
 class DaftarNilaiMahasiswa:
     def __init__(self):
         # Data akan disimpan dalam bentuk dictionary
@@ -84,11 +73,3 @@ while True:
         break
     else:
         print("Pilihan tidak valid!\n")
-
-````
- *Flowchart program:*
-  ![img 1](doc/hi.png)
-  * *
-  * *Hasil output program:*
-    ![img 1](doc/hasil.png)
-    * *
