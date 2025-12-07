@@ -89,11 +89,12 @@ while True:
  *Flowchart program:*
   ![img 1](asset/flowchart.png)
   * *
-  * *
-    Hasil output program:*
+  * *Hasil output program add:*
     ![img 1](asset/tambah.png)
-   * *
+    * *
+  * *Hasil output program add:*
     ![img 1](asset/hapus.png)
-   * *
+    * *
+  * *Hasil output program add:*
     ![img 1](asset/ubah.png)
-   * *
+    * *
