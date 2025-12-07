@@ -92,9 +92,9 @@ while True:
   * *Hasil output program add:*
     ![img 1](asset/tambah.png)
     * *
-  * *Hasil output program add:*
+  * *Hasil output program delate:*
     ![img 1](asset/hapus.png)
     * *
-  * *Hasil output program add:*
+  * *Hasil output program update:*
     ![img 1](asset/ubah.png)
     * *
